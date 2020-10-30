@@ -4,3 +4,4 @@ node_modules/
 # Parcel
 /.cache/
 /dist/
+.ts-cache
